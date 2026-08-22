@@ -31,8 +31,8 @@ let shahin = {
   
 ### 📊 GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/CaspianDiv?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6366F1)
-![Stars](https://img.shields.io/github/stars/CaspianDiv?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=6366F1)
+![Followers](https://img.shields.io/github/followers/CaspianDeveloper?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6366F1)
+![Stars](https://img.shields.io/github/stars/CaspianDeveloper?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=6366F1)
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-Check%20GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 Most Used Languages
