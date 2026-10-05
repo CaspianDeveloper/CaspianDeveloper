@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Shahin Jafarzadeh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Creating+Stunning+Web+Solutions;Always+Learning+New+Technologies;Building+Amazing+User+Experiences;Code+%26+Coffee+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Developer;Creating+Stunning+Web+Solutions;Always+Learning+New+Technologies;Building+Amazing+User+Experiences;Code+%26+Coffee+Lover" alt="Typing SVG" />
 </div>
 
 <div align="center">
